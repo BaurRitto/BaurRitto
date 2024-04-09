@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BaurRitto
 - 👀 I’m interested in Big Data, machine learning and AI
-- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Big Data projects
 - 📫 How to reach me, send me a message
 
